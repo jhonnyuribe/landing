@@ -1,0 +1,94 @@
+body{
+    background:darkblue;
+    color:greenyellow;
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+  }
+
+.header{
+background-color: grey;
+text-align: center;
+height: auto;
+}
+
+#pelicula{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#logo{
+  height: 200px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
+
+#eslogan{
+  font-family: cursive;
+  font-size: medium;
+  text-align: center;
+  }
+
+  .menu{
+    list-style: none;
+    padding: 0;
+    background: green;
+    width: 40%;
+    max-width: 1000px;
+    margin: auto;
+  }
+
+  .menu li a{
+    text-decoration: none;
+    color: rgb(3, 38, 3);
+    padding: 10px;
+    display: block;
+  }
+
+  .menu li{
+    display: inline-block;
+    text-align: center;
+  }
+
+  .menu li a:hover{
+    background: greenyellow;
+  }
+
+.boton{
+  text-decoration: solid;
+  padding: 15px 15px;
+  display: block;
+  float: left;
+}
+
+#img{
+  
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
+
+#equipo{
+  
+  display: block; 
+  margin-left: auto;
+  border-radius: 15px;
+}
+
+#monstruos{
+  
+  display: block; 
+  margin-right: auto;
+  border-radius: 15px;
+}
+
+#grupo{
+  
+  display: block; 
+  margin: 0 auto;
+  border-radius: 15px;
+}
